@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(24, 97, 24);
+}
+
+#text-area
+{
+    color: white;
+    background-color: black;
+    height: 200px;
+    margin-bottom: 60px;
+}
+
+#container
+{
+    background-color: rgb(39, 39, 39);
+    height: 560px;
+    margin: 20px;
+    border-style: solid;
+}
+
+#text
+{
+    color: rgb(10, 10, 10);
+    background-color: gray;    
+}
+
+#text::placeholder
+{
+    text-align: center;
+    color: rgb(59, 59, 59);
+    font-style: italic;
+}
